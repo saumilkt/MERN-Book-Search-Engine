@@ -1,0 +1,26 @@
+{
+  "name": "mern-book-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumilkt/MERN-Book-Search-Engine.git"
+  },
+  "author": "Saumil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumilkt/MERN-Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/saumilkt/MERN-Book-Search-Engine#readme",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-server-express": "^3.5.0",
+    "concurrently": "^6.4.0",
+    "graphql": "^15.7.2",
+    "if-env": "^1.0.4"
+  }
+}
